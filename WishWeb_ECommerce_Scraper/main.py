@@ -24,8 +24,9 @@ class Wish_Scraper:
         self.wait1 = WebDriverWait(self.driver,5)
         self.wait2 = WebDriverWait(self.driver,10)
 
-        #2 Example Searches
-        To_Search = "T-shirts"
+        #3 Example Searches
+        To_Search = input("Enter something you want to search")
+        # To_Search = "T-shirts"
         # To_Search = ["T-shirts",'sdasd',"Watches",'Clothes','Bag']
 
         self.Run(To_Search = To_Search)
