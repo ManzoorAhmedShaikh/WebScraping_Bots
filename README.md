@@ -3,4 +3,4 @@ All Web Scraper Bots for Different Websites
 
 Contributor
 
-Fazeel Ahmed Khan
+Fazeel Ahmed Khan, Pakistan
